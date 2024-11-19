@@ -23,10 +23,12 @@ Google Chrome / Microsoft Edge / Brave:
 
 Windows/Linux: Ctrl + Shift + I o F12
 Mac: Cmd + Option + I
+
 Mozilla Firefox:
 
 Windows/Linux: Ctrl + Shift + I o F12
 Mac: Cmd + Option + I
-Safari (en Mac):
+
+Safari (Mac):
 
 Mac: Cmd + Option + C
